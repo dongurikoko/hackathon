@@ -6,4 +6,4 @@
 <img width="400" alt="スクリーンショット 2024-01-30 3 16 06" src="https://github.com/dongurikoko/hackathon/assets/108347471/d9b7a1d0-19cb-411f-8435-adc28be2f69b">
 <img width="400" alt="スクリーンショット 2024-01-30 3 16 15" src="https://github.com/dongurikoko/hackathon/assets/108347471/7dbb61af-0702-4357-92a4-d68059ca6b3d">
 
-~デモ~
+(デモ)
